@@ -1,0 +1,14 @@
+{
+  "appId": "com.grocerymom.app",
+  "appName": "GroceryMom",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_launcher",
+      "iconColor": "#396940"
+    }
+  }
+}

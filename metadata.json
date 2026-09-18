@@ -1,0 +1,6 @@
+{
+  "name": "GroceryMom",
+  "description": "Cozy Household Grocery & Budgeting app with pantry tracking, expense history, and monthly spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
